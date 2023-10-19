@@ -1,0 +1,6 @@
+[submodule "lib-a"]
+	path = lib-a
+	url = https://github.com/coolkit-tony/lib-a.git
+[submodule "lib-b"]
+	path = lib-b
+	url = https://github.com/coolkit-tony/lib-b.git
